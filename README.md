@@ -5,15 +5,16 @@ This project is a simple but fully functional Google user-interface developed us
 
 ## `index.html` 
 Used for regular searching, and also features "I'm Feeling Lucky".
-![image](https://github.com/Joe-Wehbe/google-ui/assets/102875229/2fcc8dfa-6ca6-43a5-b8c0-11e94a2352cf)
+![index](https://github.com/Joe-Wehbe/google-ui/assets/102875229/f9b6d82d-d6cb-4fa7-a6d7-0efd94494053)
 
 ## `images.html`
 Used to google images.
-![image](https://github.com/Joe-Wehbe/google-ui/assets/102875229/e1acae3e-25e2-4c0b-859c-86397ca1180a)
+![images](https://github.com/Joe-Wehbe/google-ui/assets/102875229/9f7e3e16-e7e3-4bca-97b8-1cdbafe4427f)
 
 ## `advanced.html`
 Used for advanced searching.
-![image](https://github.com/Joe-Wehbe/google-ui/assets/102875229/cc7528f8-8e85-453f-9198-0c758e071304)
+![advanced](https://github.com/Joe-Wehbe/google-ui/assets/102875229/e4c10ef2-8105-456c-bf75-27de36cb267c)
+
 
 
 
